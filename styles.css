@@ -67,3 +67,13 @@ main a {
 main a:hover {
   text-decoration: underline;
 }
+
+.info-box {
+  border: 1px solid #ccc;
+  padding: 10px 15px;
+  margin-top: 30px;
+  background-color: #f9f9f9;
+  font-style: italic;
+  text-align: center;
+  border-radius: 6px;
+}
